@@ -1,5 +1,5 @@
 ﻿
-namespace nesne_2_vize_calismasi
+namespace Yas_Hesaplayici
 {
     partial class Form1
     {

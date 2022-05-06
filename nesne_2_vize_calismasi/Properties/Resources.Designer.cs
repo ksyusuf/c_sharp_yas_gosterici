@@ -9,7 +9,7 @@
 //------------------------------------------------------------------------------
 
 
-namespace nesne_2_vize_calismasi.Properties
+namespace Yas_Hesaplayici.Properties
 {
     /// <summary>
     ///   Yerelleştirilmiş dizeleri vs. aramak için türü kesin belirlenmiş bir kaynak sınıfı.
@@ -43,7 +43,7 @@ namespace nesne_2_vize_calismasi.Properties
             {
                 if ((resourceMan == null))
                 {
-                    global::System.Resources.ResourceManager temp = new global::System.Resources.ResourceManager("nesne_2_vize_calismasi.Properties.Resources", typeof(Resources).Assembly);
+                    global::System.Resources.ResourceManager temp = new global::System.Resources.ResourceManager("Yusufun yaş hesaplayıcısı.Properties.Resources", typeof(Resources).Assembly);
                     resourceMan = temp;
                 }
                 return resourceMan;

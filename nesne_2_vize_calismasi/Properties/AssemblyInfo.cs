@@ -5,12 +5,12 @@ using System.Runtime.InteropServices;
 // Bir bütünleştirilmiş koda ilişkin Genel Bilgiler aşağıdaki öznitelikler kümesiyle
 // denetlenir. Bütünleştirilmiş kod ile ilişkili bilgileri değiştirmek için
 // bu öznitelik değerlerini değiştirin.
-[assembly: AssemblyTitle("nesne_2_vize_calismasi")]
-[assembly: AssemblyDescription("")]
+[assembly: AssemblyTitle("Yusufun yaş hesaplayıcısı")]
+[assembly: AssemblyDescription("Özel arkadaşlar için tasarlanmış yaş gösterici program")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("nesne_2_vize_calismasi")]
-[assembly: AssemblyCopyright("Copyright ©  2022")]
+[assembly: AssemblyProduct("Yusufun yaş hesaplayıcısı")]
+[assembly: AssemblyCopyright("Çok özel telif hakkı")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 

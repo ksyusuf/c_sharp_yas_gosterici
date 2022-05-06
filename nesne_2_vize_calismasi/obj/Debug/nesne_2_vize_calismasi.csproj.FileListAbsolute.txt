@@ -12,9 +12,9 @@ C:\Users\ksyus\Source\Repos\c_sharp_yas_gosterici\nesne_2_vize_calismasi\bin\Deb
 C:\Users\ksyus\Source\Repos\c_sharp_yas_gosterici\nesne_2_vize_calismasi\bin\Debug\nesne_2_vize_calismasi.exe
 C:\Users\ksyus\Source\Repos\c_sharp_yas_gosterici\nesne_2_vize_calismasi\bin\Debug\nesne_2_vize_calismasi.pdb
 C:\Users\ksyus\Source\Repos\c_sharp_yas_gosterici\nesne_2_vize_calismasi\obj\Debug\nesne_2_vize_calismasi.csproj.AssemblyReference.cache
-C:\Users\ksyus\Source\Repos\c_sharp_yas_gosterici\nesne_2_vize_calismasi\obj\Debug\nesne_2_vize_calismasi.Form1.resources
 C:\Users\ksyus\Source\Repos\c_sharp_yas_gosterici\nesne_2_vize_calismasi\obj\Debug\nesne_2_vize_calismasi.Properties.Resources.resources
 C:\Users\ksyus\Source\Repos\c_sharp_yas_gosterici\nesne_2_vize_calismasi\obj\Debug\nesne_2_vize_calismasi.csproj.GenerateResource.cache
 C:\Users\ksyus\Source\Repos\c_sharp_yas_gosterici\nesne_2_vize_calismasi\obj\Debug\nesne_2_vize_calismasi.csproj.CoreCompileInputs.cache
 C:\Users\ksyus\Source\Repos\c_sharp_yas_gosterici\nesne_2_vize_calismasi\obj\Debug\nesne_2_vize_calismasi.exe
 C:\Users\ksyus\Source\Repos\c_sharp_yas_gosterici\nesne_2_vize_calismasi\obj\Debug\nesne_2_vize_calismasi.pdb
+C:\Users\ksyus\Source\Repos\c_sharp_yas_gosterici\nesne_2_vize_calismasi\obj\Debug\Yas_Hesaplayici.Form1.resources

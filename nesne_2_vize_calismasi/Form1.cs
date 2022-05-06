@@ -8,7 +8,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace nesne_2_vize_calismasi
+namespace Yas_Hesaplayici
 {
     public partial class Form1 : Form
     {
@@ -57,9 +57,9 @@ namespace nesne_2_vize_calismasi
         {
             //fonksiyon burada çalışacak
             yil_yas_hesaplayici(4, 6, 1999, label10); //ysf
-            yil_yas_hesaplayici(16, 1, 1999, label1); //elife
+            yil_yas_hesaplayici(17, 1, 1999, label1); //elife
             yil_yas_dogum_gunu_kalan(4, 6, 1999, label7); //ysf
-            yil_yas_dogum_gunu_kalan(16, 1, 1999, label4); //elife
+            yil_yas_dogum_gunu_kalan(17, 1, 1999, label4); //elife
         }
 
         private void label2_Click_1(object sender, EventArgs e)

@@ -4,7 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace nesne_2_vize_calismasi
+namespace Yas_Hesaplayici
 {
     static class Program
     {
