@@ -38,10 +38,14 @@ namespace Yas_Hesaplayici
             this.tabControl1 = new System.Windows.Forms.TabControl();
             this.tabPage1 = new System.Windows.Forms.TabPage();
             this.tabPage2 = new System.Windows.Forms.TabPage();
-            this.label4 = new System.Windows.Forms.Label();
-            this.label5 = new System.Windows.Forms.Label();
             this.label6 = new System.Windows.Forms.Label();
             this.label7 = new System.Windows.Forms.Label();
+            this.label4 = new System.Windows.Forms.Label();
+            this.label5 = new System.Windows.Forms.Label();
+            this.label8 = new System.Windows.Forms.Label();
+            this.label9 = new System.Windows.Forms.Label();
+            this.label11 = new System.Windows.Forms.Label();
+            this.label12 = new System.Windows.Forms.Label();
             this.tabControl1.SuspendLayout();
             this.tabPage1.SuspendLayout();
             this.tabPage2.SuspendLayout();
@@ -80,7 +84,7 @@ namespace Yas_Hesaplayici
             // 
             this.label3.AutoSize = true;
             this.label3.Font = new System.Drawing.Font("Microsoft Sans Serif", 24F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
-            this.label3.Location = new System.Drawing.Point(37, 98);
+            this.label3.Location = new System.Drawing.Point(37, 141);
             this.label3.Name = "label3";
             this.label3.Size = new System.Drawing.Size(112, 37);
             this.label3.TabIndex = 9;
@@ -91,7 +95,7 @@ namespace Yas_Hesaplayici
             // 
             this.label1.AutoSize = true;
             this.label1.Font = new System.Drawing.Font("Microsoft Sans Serif", 24F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
-            this.label1.Location = new System.Drawing.Point(155, 98);
+            this.label1.Location = new System.Drawing.Point(155, 141);
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(106, 37);
             this.label1.TabIndex = 10;
@@ -110,6 +114,8 @@ namespace Yas_Hesaplayici
             // 
             // tabPage1
             // 
+            this.tabPage1.Controls.Add(this.label8);
+            this.tabPage1.Controls.Add(this.label9);
             this.tabPage1.Controls.Add(this.label2);
             this.tabPage1.Controls.Add(this.label10);
             this.tabPage1.Controls.Add(this.label3);
@@ -124,6 +130,8 @@ namespace Yas_Hesaplayici
             // 
             // tabPage2
             // 
+            this.tabPage2.Controls.Add(this.label11);
+            this.tabPage2.Controls.Add(this.label12);
             this.tabPage2.Controls.Add(this.label6);
             this.tabPage2.Controls.Add(this.label7);
             this.tabPage2.Controls.Add(this.label4);
@@ -135,28 +143,6 @@ namespace Yas_Hesaplayici
             this.tabPage2.TabIndex = 1;
             this.tabPage2.Text = "Sonraki Yaşa Kalan";
             this.tabPage2.UseVisualStyleBackColor = true;
-            // 
-            // label4
-            // 
-            this.label4.AutoSize = true;
-            this.label4.Font = new System.Drawing.Font("Microsoft Sans Serif", 24F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
-            this.label4.Location = new System.Drawing.Point(155, 98);
-            this.label4.Name = "label4";
-            this.label4.Size = new System.Drawing.Size(108, 37);
-            this.label4.TabIndex = 14;
-            this.label4.Text = "label4";
-            this.label4.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
-            // 
-            // label5
-            // 
-            this.label5.AutoSize = true;
-            this.label5.Font = new System.Drawing.Font("Microsoft Sans Serif", 24F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
-            this.label5.Location = new System.Drawing.Point(37, 98);
-            this.label5.Name = "label5";
-            this.label5.Size = new System.Drawing.Size(112, 37);
-            this.label5.TabIndex = 13;
-            this.label5.Text = "Ayşe -";
-            this.label5.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             // 
             // label6
             // 
@@ -179,6 +165,72 @@ namespace Yas_Hesaplayici
             this.label7.TabIndex = 15;
             this.label7.Text = "label7";
             this.label7.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
+            // 
+            // label4
+            // 
+            this.label4.AutoSize = true;
+            this.label4.Font = new System.Drawing.Font("Microsoft Sans Serif", 24F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
+            this.label4.Location = new System.Drawing.Point(155, 139);
+            this.label4.Name = "label4";
+            this.label4.Size = new System.Drawing.Size(108, 37);
+            this.label4.TabIndex = 14;
+            this.label4.Text = "label4";
+            this.label4.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
+            // 
+            // label5
+            // 
+            this.label5.AutoSize = true;
+            this.label5.Font = new System.Drawing.Font("Microsoft Sans Serif", 24F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
+            this.label5.Location = new System.Drawing.Point(37, 139);
+            this.label5.Name = "label5";
+            this.label5.Size = new System.Drawing.Size(112, 37);
+            this.label5.TabIndex = 13;
+            this.label5.Text = "Ayşe -";
+            this.label5.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
+            // 
+            // label8
+            // 
+            this.label8.AutoSize = true;
+            this.label8.Font = new System.Drawing.Font("Microsoft Sans Serif", 24F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
+            this.label8.Location = new System.Drawing.Point(21, 88);
+            this.label8.Name = "label8";
+            this.label8.Size = new System.Drawing.Size(128, 37);
+            this.label8.TabIndex = 11;
+            this.label8.Text = "Belkıs -";
+            this.label8.TextAlign = System.Drawing.ContentAlignment.MiddleRight;
+            // 
+            // label9
+            // 
+            this.label9.AutoSize = true;
+            this.label9.Font = new System.Drawing.Font("Microsoft Sans Serif", 24F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
+            this.label9.Location = new System.Drawing.Point(155, 88);
+            this.label9.Name = "label9";
+            this.label9.Size = new System.Drawing.Size(108, 37);
+            this.label9.TabIndex = 12;
+            this.label9.Text = "label9";
+            this.label9.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
+            // 
+            // label11
+            // 
+            this.label11.AutoSize = true;
+            this.label11.Font = new System.Drawing.Font("Microsoft Sans Serif", 24F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
+            this.label11.Location = new System.Drawing.Point(155, 87);
+            this.label11.Name = "label11";
+            this.label11.Size = new System.Drawing.Size(123, 37);
+            this.label11.TabIndex = 18;
+            this.label11.Text = "label11";
+            this.label11.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
+            // 
+            // label12
+            // 
+            this.label12.AutoSize = true;
+            this.label12.Font = new System.Drawing.Font("Microsoft Sans Serif", 24F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
+            this.label12.Location = new System.Drawing.Point(21, 87);
+            this.label12.Name = "label12";
+            this.label12.Size = new System.Drawing.Size(128, 37);
+            this.label12.TabIndex = 17;
+            this.label12.Text = "Belkıs -";
+            this.label12.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             // 
             // Form1
             // 
@@ -212,6 +264,10 @@ namespace Yas_Hesaplayici
         private System.Windows.Forms.Label label7;
         private System.Windows.Forms.Label label4;
         private System.Windows.Forms.Label label5;
+        private System.Windows.Forms.Label label8;
+        private System.Windows.Forms.Label label9;
+        private System.Windows.Forms.Label label11;
+        private System.Windows.Forms.Label label12;
     }
 }
 

@@ -57,8 +57,10 @@ namespace Yas_Hesaplayici
         {
             //fonksiyon burada çalışacak
             yil_yas_hesaplayici(4, 6, 1999, label10); //ysf
+            yil_yas_hesaplayici(2, 3, 2003, label9); //blks
             yil_yas_hesaplayici(17, 1, 1999, label1); //elife
             yil_yas_dogum_gunu_kalan(4, 6, 1999, label7); //ysf
+            yil_yas_dogum_gunu_kalan(2, 3, 2003, label11); //blks
             yil_yas_dogum_gunu_kalan(17, 1, 1999, label4); //elife
         }
 
